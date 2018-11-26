@@ -33,3 +33,8 @@ figcaption {
   width: 800px;
   align-self: center;
 }
+
+#details {
+  display: block;
+  
+}
