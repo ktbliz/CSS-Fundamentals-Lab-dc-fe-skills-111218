@@ -17,7 +17,7 @@ nav a {
   padding-left: 10px;
   background-color: gray;
   color: black;
-  text-align: center;
+  align-items: center;
 }
 
 figure {
