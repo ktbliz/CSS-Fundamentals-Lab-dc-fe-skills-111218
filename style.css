@@ -12,6 +12,10 @@ nav a {
   color: black;
 }
 
+figure {
+  align-content: center;
+}
+
 figcaption {
   font-size: smaller;
 }
