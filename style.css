@@ -9,6 +9,9 @@ h1 {
   text-align: center;
 }
 
+img {
+  align-items: center;
+}
 
 nav a {
   padding-right: 10px;
@@ -29,4 +32,5 @@ figcaption {
 #featured-property p {
   text-align: center;
   width: 800px;
+  text-align: center;
 }
