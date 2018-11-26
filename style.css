@@ -15,3 +15,7 @@ nav a {
 figcaption {
   font-size: smaller;
 }
+
+#featured-property {
+  width: 800px;
+}
