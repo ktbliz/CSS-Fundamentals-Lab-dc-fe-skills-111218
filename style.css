@@ -10,8 +10,6 @@ h1 {
 
 img {
   align-items: center;
-  text-align: center;
-  align-content: center;
 }
 
 nav a {
@@ -19,6 +17,7 @@ nav a {
   padding-left: 10px;
   background-color: gray;
   color: black;
+  text-align: center;
 }
 
 figure {
